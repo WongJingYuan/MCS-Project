@@ -1,0 +1,12 @@
+body{
+	background-color:lemonchiffon;
+}
+
+header {
+   text-align:center;
+   font-size: 40px; 
+   color: coral;
+   font-family: Arial BLack, Helvetica, sans-serif;
+   border: 10px white solid;
+   padding:20px 10px 20px 10px;
+}
